@@ -1,7 +1,7 @@
 # MP3-TAG-READER
 MP3 Tag Reader is a simple command-line tool written in C for extracting metadata information from MP3 files. It parses ID3 tags and displays details such as song title, artist, album, and genre.
 
-Features
+Features\n
 Parses ID3 tags from MP3 files.
 Displays metadata information including song title, artist, album, genre, and more.
 Supports error handling for missing or malformed ID3 tags.
